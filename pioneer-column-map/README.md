@@ -1,4 +1,4 @@
-Pioneer Column Map of 1890
+Map of The 1890 Pioneer Column
 ========
 
 This is a companion resource to a blog post  - Anything For A Map - Part 0 , hosted on erickndava.github.io.
