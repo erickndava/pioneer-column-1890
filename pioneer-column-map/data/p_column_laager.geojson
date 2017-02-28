@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "The Kopje", "ARRIVAL": "Undated", "NOTES": null, "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.041910187016722, -17.841780424012175 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "1 July 1890", "NOTES": null, "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 29.170792376033329, -21.924295612729697 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "25 July 1890", "NOTES": "Laager in a natural amphitheatre surrounded by hills.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.065882468535765, -21.188511178109177 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "22 July 1890", "NOTES": "Laager on the south bank of the Bubye river. Drift building.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 29.941449520633171, -21.343295935618372 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "16 July 1890", "NOTES": "Laager on the north-east side of the river.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 29.686527297983062, -21.51731178564398 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "3 July 1890", "NOTES": "On the North side of the river.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.579266015461457, -20.77114211133371 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "2 August 1890", "NOTES": null, "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.578874119624107, -20.781723298942101 ] } },
+{ "type": "Feature", "properties": { "NAME": "Camp", "ARRIVAL": "1 August 1890", "NOTES": "Camped near Savana Bula", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.44131868071501, -20.844034737080413 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "9 August 1890", "NOTES": "Drift building and Tokwe River crossing", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.682120523194499, -20.392983895237958 ] } },
+{ "type": "Feature", "properties": { "NAME": "Providential Pass", "ARRIVAL": "13 August 1890", "NOTES": "A pool marked nearby in Fern Spruit", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.802049917173587, -20.140610735734139 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "11 August 1890", "NOTES": "Near a large wet vlei. Spur-winged geese and duck.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.720110579672351, -20.32028135578231 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "12 August 1890", "NOTES": "At the foot of Providential Pass", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.769572143400371, -20.227019491644537 ] } },
+{ "type": "Feature", "properties": { "NAME": "Fort Victoria", "ARRIVAL": "14 August 1890", "NOTES": "Fort to guard the Pass", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.815458172401065, -20.125265732529357 ] } },
+{ "type": "Feature", "properties": { "NAME": "Six Mile Spruit", "ARRIVAL": "11 September 1890", "NOTES": "Present day Waterfalls.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.008448580067288, -17.891001259693674 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "10 September 1890", "NOTES": "Crossed the river and laagered on the north side of river.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.990049474282912, -17.983816181990544 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "10 September 1890", "NOTES": "Laagered on the south bank of Hunyani River (Manyame)", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.986473939555584, -17.995138708627081 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "9 September 1890", "NOTES": "Laager between the Umfuli and Hunyani rivers.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.144095428785263, -18.145609128402103 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "7 September 1890", "NOTES": "South bank of Umfuli River", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.188491651649574, -18.391129179678572 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "6 September 1890", "NOTES": "Headwaters of Sabi River (Save River)", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.112809499921148, -18.567224264999442 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "Undated", "NOTES": "Point taken from Topomap.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.084205222102529, -18.879189669958734 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "Undated", "NOTES": "Point taken from Topomap.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.068115315829559, -18.939377837868744 ] } },
+{ "type": "Feature", "properties": { "NAME": "Mooi", "ARRIVAL": "3 September 1890", "NOTES": "Laager Mooi Fontein", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.096123671193624, -18.641416610591467 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "2 September 1890", "NOTES": "Headwaters of Umniati River (Munyati River)", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 31.113405422375703, -18.734976435956529 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "2 September 1890", "NOTES": "Headwaters of Umniati River", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.917197954213631, -19.399876914625754 ] } },
+{ "type": "Feature", "properties": { "NAME": "Laager", "ARRIVAL": "18 August 1890", "NOTES": "Parallel roads start. 50 yards apart.", "type": "laager" }, "geometry": { "type": "Point", "coordinates": [ 30.866409542265504, -20.022618089732344 ] } }
+]
+}

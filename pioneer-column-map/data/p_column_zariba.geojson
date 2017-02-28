@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Zariba", "ARRIVAL": "7 July 1890", "NOTES": "Zariba near a Makalanga Kraal", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 29.395740586670978, -21.756760142263495 ] } },
+{ "type": "Feature", "properties": { "NAME": "Zariba", "ARRIVAL": "5 July 1890", "NOTES": "Thorn Zariba. Built at sunset.", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 29.258381095680566, -21.87785595600398 ] } },
+{ "type": "Feature", "properties": { "NAME": "Zariba", "ARRIVAL": "12 July 1890", "NOTES": "Assumed Zariba. No sign of water in river but accessible by digging.", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 29.677905589561409, -21.518095577318675 ] } },
+{ "type": "Feature", "properties": { "NAME": "Zariba", "ARRIVAL": "11 July 1890", "NOTES": "Assumed zariba.", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 29.628526714055585, -21.569825827848589 ] } },
+{ "type": "Feature", "properties": { "NAME": "Zariba", "ARRIVAL": "9 July 1890", "NOTES": "Camped on North-East bank.", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 29.547404275724585, -21.663488932974715 ] } },
+{ "type": "Feature", "properties": { "NAME": "Savana Bula", "ARRIVAL": "1 August 1890", "NOTES": "Landmark", "type": "zariba" }, "geometry": { "type": "Point", "coordinates": [ 30.438575409853577, -20.856183508038196 ] } }
+]
+}
